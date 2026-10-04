@@ -61,7 +61,8 @@ civic-connect/
 - Email/SMS notifications
 - Location/map integration
 - Mobile application
-- <img width="1600" height="1200" alt="WhatsApp Image 2026-10-04 at 8 24 47 AM (1)" src="https://github.com/user-attachments/assets/74bb6902-2022-47fc-8363-6a2108bab19b" />
+- <img width="1600" height="877" alt="WhatsApp Image 2026-10-04 at 8 55 35 AM (2)" src="https://github.com/user-attachments/assets/4ffade06-7243-4ea0-b61d-57f9daf577d8" />
+
 <img width="1600" height="1458" alt="WhatsApp Image 2026-10-04 at 8 55 35 AM" src="https://github.com/user-attachments/assets/ab203b0a-5c59-43af-b15a-afccdbbfb81b" />
 <img width="1600" height="1346" alt="WhatsApp Image 2026-10-04 at 8 55 35 AM (1)" src="https://github.com/user-attachments/assets/d9310974-ae43-4bfa-b74d-0696aff6fa96" />
 
