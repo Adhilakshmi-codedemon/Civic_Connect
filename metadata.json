@@ -1,0 +1,6 @@
+{
+  "name": "Civic Connect - Municipal Complaint Tracker",
+  "description": "Transparent municipal complaint registration and tracking platform for citizens and city staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
